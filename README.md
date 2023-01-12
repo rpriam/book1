@@ -1,6 +1,4 @@
-# Book December 27, 2022
-
-# Data files for my first book available at amazon kdp
+# Data files for my first book available at amazon kdp (2022-12-27)
 
 ## Features <br />
 
