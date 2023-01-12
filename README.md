@@ -1,4 +1,5 @@
-# Data files for my first book available at amazon kdp (2022-12-27)
+# Data files for my first book <br />
+# (available at amazon kdp, 2022-12-27) <br />
 
 ## Title <br />
 
