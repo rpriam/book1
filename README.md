@@ -1,12 +1,10 @@
-## Book datafiles <br />
+## Book datafiles for my first book <br />
 
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
  <br />
  <br />
-
-Data files for my first book (available at amazon kdp, 2022-12-27) <br />
 <br />
 <br />
 
@@ -39,10 +37,9 @@ This book is an introduction to computational statistics for the generalized lin
 
 
 
-**Details** <br />
+**Details from Amazon kdp (December 27, 2022) ** <br />
 
 ASIN : B0BRDGQND1 <br />
-Publisher : Independently published (December 27, 2022) <br />
 Language : English <br />
 Paperback : 283 pages <br />
 ISBN-13 : 979-8371441577 <br />
