@@ -1,4 +1,5 @@
-## Book: **Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn**
+## Book: **Linear and Deep Models Basics  <br />
+##       **with Pytorch, Numpy, and Scikit-Learn**
 
 Data files for my first book (available at amazon kdp, 2022-12-27) <br />
 
