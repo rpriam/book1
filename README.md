@@ -3,12 +3,8 @@
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
- <br />
- <br />
-<br />
-<br />
 
-**Features** <br />
+**Main Features** <br />
 
 - Theory for the linear models and implementation with pytorch and scikit-learn  <br />
 
@@ -37,7 +33,7 @@ This book is an introduction to computational statistics for the generalized lin
 
 
 
-**Details from Amazon kdp (December 27, 2022) ** <br />
+**Details from Amazon kdp (December 27, 2022)** <br />
 
 ASIN : B0BRDGQND1 <br />
 Language : English <br />
