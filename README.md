@@ -1,4 +1,4 @@
-## Book datafiles for the book: <br />
+## Data files and companion jupyter notebooks for the book: <br />
 
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
