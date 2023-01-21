@@ -8,7 +8,7 @@
 
 **Printed book with corrected exercices is available at amazon.com** [link_to_the_website.html](https://www.amazon.com/dp/B0BRDGQND1) <br />
 
-![image text](https://github.com/rpriam/book1/blob/main/cover.png)
+[![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
 
 **Main Features** <br />
 
