@@ -61,7 +61,7 @@ This book is an introduction to computational statistics for the generalized lin
 
 7. Neural networks for (deep) glm <br />
 
-    Presentation of the different losses functions from pytorch <br />
+    Presentation of the different loss functions from pytorch <br />
     Generic implementation of the algorithms with pytorch <br />
     Example of nonlinear frontier with a small dataset <br />
 
