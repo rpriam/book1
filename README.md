@@ -10,6 +10,15 @@
 
 [![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
 
+
+Available from Amazon kdp (December 27, 2022) <br />
+ASIN : B0BRDGQND1 <br />
+Language : English <br />
+Paperback : 283 pages <br />
+ISBN-13 : 979-8371441577 <br />
+<br />
+<br />
+
 **Main Features** <br />
 
 - Theory for the linear models and implementation with pytorch and scikit-learn  <br />
@@ -93,15 +102,6 @@ Several solutions for large datasets with scikit-leanrn <br />
 Several solutions for small datasets with pytorch <br />
 
 
-**Details from Amazon kdp (December 27, 2022)** <br />
-
-ASIN : B0BRDGQND1 <br />
-Language : English <br />
-Paperback : 283 pages <br />
-ISBN-13 : 979-8371441577 <br />
-<br />
-<br />
-<br />
 
 **About the author**
 
