@@ -91,7 +91,7 @@ This book is an introduction to computational statistics for the generalized lin
 
     Introduction to the algebra for principal component analysis </br>
     Implementation step by step for principal component analysis </br>
-    Implementation with Scikit-Learn of pca and (non)linear autoencoders </br>
+    Implementation with scikit-Learn of pca and (non)linear autoencoders </br>
     Implementation of t-sne with python from two modules </br>
     Implementation of random projection for large datasets </br>
     Notion of quality of the visualization for comparison </br>
