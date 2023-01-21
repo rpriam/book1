@@ -20,7 +20,7 @@
 
 - Very large datasets 450000 and 11000000 on a home computer with a few gigabytes  <br />
 
-- Step by step for theory and code (ask for minimum knowledge in python and maths)  <br />
+- Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
 **Abstract**  <br />
 
