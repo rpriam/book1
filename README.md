@@ -30,14 +30,31 @@ This book is an introduction to computational statistics for the generalized lin
 **Chapter** <br />
 
 1. Introduction <br />
-2. 2 Linear models with numpy and scikit-learn <br />
-3. First-order training of linear models <br />
-4. Neural networks for (deep) glm <br />
-5. Lasso selection for (deep) glm <br />
-6. Hessian and covariance for (deep) glm <br />
-7. Second-order training of (deep) glm <br />
-8. Autoencoder compared to ipca and t-sne <br />
-9. Solution to selected exercices <br />
+
+Polynomial regression  <br />
+Error on a train sample  <br />
+Error on a test sample  <br />
+
+3. Linear models with numpy and scikit-learn <br />
+
+Theory for the linear regression  <br />
+Theory for logistic regression <br />
+Loglikelihood and loss function <br />
+Derivatives, implementation with numpy <br />
+Implementation with Scikit-Learn <br />
+
+5. First-order training of linear models <br />
+
+Algorithm with one datum and with one minibatch <br />
+Implementation of the algorithms with numpy <br />
+Implementation of the algorithms with pytorch <br />
+
+7. Neural networks for (deep) glm <br />
+8. Lasso selection for (deep) glm <br />
+9. Hessian and covariance for (deep) glm <br />
+10. Second-order training of (deep) glm <br />
+11. Autoencoder compared to ipca and t-sne <br />
+12. Solution to selected exercices <br />
 
 
 
