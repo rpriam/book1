@@ -4,6 +4,12 @@
  <br />
  <br />
 
+
+**Main Document (247 pages) without the chapter for the exercices** <br />
+
+[book_rpriam_2022.pdf](https://github.com/rpriam/book1/blob/main/book_rpriam_2022.pdf)
+
+
 **Main Features** <br />
 
 - Theory for the linear models and implementation with pytorch and scikit-learn  <br />
