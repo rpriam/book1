@@ -40,66 +40,66 @@ This book is an introduction to computational statistics for the generalized lin
 
 1. Introduction <br />
 
-Polynomial regression  <br />
-Error on a train sample  <br />
-Error on a test sample  <br />
+    Polynomial regression  <br />
+    Error on a train sample  <br />
+    Error on a test sample  <br />
 
 3. Linear models with numpy and scikit-learn <br />
 
-Theory for linear regression  <br />
-Theory for logistic regression <br />
-Loglikelihood and loss function <br />
-Analytical expression of the derivatives  <br />
-implementation with numpy <br />
-Implementation with Scikit-Learn <br />
+    Theory for linear regression  <br />
+    Theory for logistic regression <br />
+    Loglikelihood and loss function <br />
+    Analytical expression of the derivatives  <br />
+    implementation with numpy <br />
+    Implementation with Scikit-Learn <br />
 
 5. First-order training of linear models <br />
 
-Algorithm with one datum and with one minibatch <br />
-Implementation of the algorithms with numpy <br />
-Implementation of the algorithms with pytorch <br />
+    Algorithm with one datum and with one minibatch <br />
+    Implementation of the algorithms with numpy <br />
+    Implementation of the algorithms with pytorch <br />
 
 7. Neural networks for (deep) glm <br />
 
-Presentation of the different losses functions from pytorch <br />
-Generic implementation of the algorithms with pytorch <br />
-Example of nonlinear frontier with a small dataset <br />
+    Presentation of the different losses functions from pytorch <br />
+    Generic implementation of the algorithms with pytorch <br />
+    Example of nonlinear frontier with a small dataset <br />
 
 9. Lasso selection for (deep) glm <br />
 
-Penalization of the regression for sparse solution <br />
-Implementation with pytorch for a neural network <br />
-Selecton of the hyperparameters (grid and bayesian) <br />
+    Penalization of the regression for sparse solution <br />
+    Implementation with pytorch for a neural network <br />
+    Selecton of the hyperparameters (grid and bayesian) <br />
 
 11. Hessian and covariance for (deep) glm <br />
 
-Notion of variance of the parameters <br />
-Implementation with statsmodels for linear models <br />
-Implementation with pytorch for a neural network <br />
+    Notion of variance of the parameters <br />
+    Implementation with statsmodels for linear models <br />
+    Implementation with pytorch for a neural network <br />
 
 13. Second-order training of (deep) glm <br />
 
-Expression of the update for 1st-order for poisson regression <br />
-Expression of the update for 2nd-order for poisson regression <br />
-Implementation of gradient descent for the poisson regression <br />
-Implementation of newton-raphson with numpy <br />
-Implementation of natural gradient with numpy <br />
-Implementation l-fbgs algorithm with pytorch <br />
-Notion of quality of the estimation for comparison </br>
+    Expression of the update for 1st-order for poisson regression <br />
+    Expression of the update for 2nd-order for poisson regression <br />
+    Implementation of gradient descent for the poisson regression <br />
+    Implementation of newton-raphson with numpy <br />
+    Implementation of natural gradient with numpy <br />
+    Implementation l-fbgs algorithm with pytorch <br />
+    Notion of quality of the estimation for comparison </br>
 
 15. Autoencoder compared to ipca and t-sne <br />
 
-Introduction to the algebra for principal component analysis </br>
-Implementation step by step for principal component analysis </br>
-Implementation with Scikit-Learn of pca and (non)linear autoencoders </br>
-Implementation of t-sne with python from two modules </br>
-Implementation of random projection for large datasets </br>
-Notion of quality of the visualization for comparison </br>
+    Introduction to the algebra for principal component analysis </br>
+    Implementation step by step for principal component analysis </br>
+    Implementation with Scikit-Learn of pca and (non)linear autoencoders </br>
+    Implementation of t-sne with python from two modules </br>
+    Implementation of random projection for large datasets </br>
+    Notion of quality of the visualization for comparison </br>
 
 17. Solution to selected exercices <br />
 
-Several solutions for large datasets with scikit-leanrn <br />
-Several solutions for small datasets with pytorch <br />
+    Several solutions for large datasets with scikit-leanrn <br />
+    Several solutions for small datasets with pytorch <br />
 
 
 
