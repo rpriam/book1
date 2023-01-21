@@ -40,7 +40,8 @@ Error on a test sample  <br />
 Theory for the linear regression  <br />
 Theory for logistic regression <br />
 Loglikelihood and loss function <br />
-Derivatives, implementation with numpy <br />
+Analytical expression of the derivatives  <br />
+implementation with numpy <br />
 Implementation with Scikit-Learn <br />
 
 5. First-order training of linear models <br />
@@ -50,12 +51,38 @@ Implementation of the algorithms with numpy <br />
 Implementation of the algorithms with pytorch <br />
 
 7. Neural networks for (deep) glm <br />
-8. Lasso selection for (deep) glm <br />
-9. Hessian and covariance for (deep) glm <br />
-10. Second-order training of (deep) glm <br />
-11. Autoencoder compared to ipca and t-sne <br />
-12. Solution to selected exercices <br />
 
+Presentation of the different losses functions from pytorch <br />
+Generic implementation of the algorithms with pytorch <br />
+Example of nonlinear frontier with a small dataset <br />
+
+9. Lasso selection for (deep) glm <br />
+
+Penalization of the regression for sparse solution <br />
+Implementation with pytorch for a neural network <br />
+Selecton of the hyperparameters (grid and bayesian) <br />
+
+11. Hessian and covariance for (deep) glm <br />
+
+Notion of variance of the parameters <br />
+Implementation with statsmodels for linear models <br />
+Implementation with pytorch for a neural network <br />
+
+13. Second-order training of (deep) glm <br />
+
+Expression of the update for second-order <br />
+Implementation of newton-raphson with numpy <br />
+Implementation of natural gradient with numpy <br />
+Implementation l-fbgs algorithm with pytorch <br />
+
+15. Autoencoder compared to ipca and t-sne <br />
+
+
+
+17. Solution to selected exercices <br />
+
+Several solutions for large datasets with scikit-leanrn <br />
+Several solutions for small datasets with pytorch <br />
 
 
 **Details from Amazon kdp (December 27, 2022)** <br />
