@@ -99,7 +99,7 @@ This book is an introduction to computational statistics for the generalized lin
 17. Solution to selected exercices <br />
 
     Several solutions for large datasets with scikit-leanrn <br />
-    Several solutions for small datasets with pytorch <br />
+    Several solutions for neural networks with pytorch <br />
 
 
 
