@@ -4,13 +4,11 @@
  <br />
  <br />
 
+**Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](https://github.com/rpriam/book1/blob/main/book_rpriam_2022.pdf)
 
 **Printed book with corrected exercices is available at amazon.com** [link_to_the_website.html](https://www.amazon.com/dp/B0BRDGQND1) <br />
 
 ![image text](https://github.com/rpriam/book1/blob/main/cover.png)
-
-**Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](https://github.com/rpriam/book1/blob/main/book_rpriam_2022.pdf)
-
 
 **Main Features** <br />
 
