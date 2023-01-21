@@ -70,14 +70,22 @@ Implementation with pytorch for a neural network <br />
 
 13. Second-order training of (deep) glm <br />
 
-Expression of the update for second-order <br />
+Expression of the update for 1st-order for poisson regression <br />
+Expression of the update for 2nd-order for poisson regression <br />
+Implementation of gradient descent for the poisson regression <br />
 Implementation of newton-raphson with numpy <br />
 Implementation of natural gradient with numpy <br />
 Implementation l-fbgs algorithm with pytorch <br />
+Notion of quality of the estimation for comparison </br>
 
 15. Autoencoder compared to ipca and t-sne <br />
 
-
+Introduction to the algebra for principal component analysis </br>
+Implementation step by step for principal component analysis </br>
+Implementation with Scikit-Learn of pca and (non)linear autoencoders </br>
+Implementation of t-sne with python from two modules </br>
+Implementation of random projection for large datasets </br>
+Notion of quality of the visualization for comparison </br>
 
 17. Solution to selected exercices <br />
 
