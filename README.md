@@ -46,7 +46,7 @@ Error on a test sample  <br />
 
 3. Linear models with numpy and scikit-learn <br />
 
-Theory for the linear regression  <br />
+Theory for linear regression  <br />
 Theory for logistic regression <br />
 Loglikelihood and loss function <br />
 Analytical expression of the derivatives  <br />
