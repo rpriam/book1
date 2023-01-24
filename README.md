@@ -115,5 +115,5 @@ Rodolphe Priam has a diploma in practical applied statistics and a phD related t
 ----------------------------------------------------------------------
 
 ---------------------------------------------------------------------
-![Visitor Count](https://profile-counter.glitch.me/{rody}/count.svg)
+
 
