@@ -4,7 +4,7 @@
  <br />
  <br />
 
-**Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](https://github.com/rpriam/book1/blob/main/book_rpriam_2022.pdf)
+**Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](https://www.researchgate.net/publication/366987042_Linear_and_Deep_Models_Basics_with_Pytorch_Numpy_and_Scikit-Learn)
 
 **Printed book with corrected exercices is available at amazon.com** [link_to_the_website.html](https://www.amazon.com/dp/B0BRDGQND1) <br />
 
