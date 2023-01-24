@@ -114,4 +114,6 @@ Rodolphe Priam has a diploma in practical applied statistics and a phD related t
 
 ----------------------------------------------------------------------
 ![Visitor Count](https://profile-counter.glitch.me/{rody}/count.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
