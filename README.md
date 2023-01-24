@@ -74,7 +74,7 @@ This book is an introduction to computational statistics for the generalized lin
 
     Penalization of the regression for sparse solution <br />
     Implementation with pytorch for a neural network <br />
-    Selecton of the hyperparameters (grid and bayesian) <br />
+    Selection of the hyperparameters (grid and bayesian) <br />
 
 11. Hessian and covariance for (deep) glm <br />
 
