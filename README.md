@@ -31,7 +31,7 @@ ISBN-13 : 979-8371441577 <br />
 
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
-- Learn the basics without compromise with the statistical fundamental knowledge <br />
+- Learn the basics without compromise and with the statistical fundamental knowledge <br />
 
 - More than the usual average contents before consolidate towards more advanced models <br />
 
