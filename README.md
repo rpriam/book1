@@ -3,6 +3,10 @@
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
+ 
+ ## "Notebooks .pynb and main file utils.py available at" (notebooks)(./notebooks), more available in the document<br />
+ <br />
+ <br />
 
 **Printed book with corrected exercices is available at at amazon local places** <br />
      [.com](https://www.amazon.de/dp/B0BRDGQND1), 
