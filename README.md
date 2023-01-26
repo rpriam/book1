@@ -40,7 +40,7 @@ ISBN-13 : 979-8371441577 <br />
 
 - Practice of deep learning with pytorch for feedforward neural networks <br />
 
-- Many examples and exercices to practice and understand better the contents <br />
+- Many examples and exercices to practice and understand further the contents <br />
 
 - Very large datasets 450000 and 11000000 on a home computer with a few gigabytes  <br />
 
