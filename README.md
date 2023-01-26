@@ -9,6 +9,7 @@
 [![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
 
 Also available at amazon local places: 
+     [.com](https://www.amazon.de/dp/B0BRDGQND1), 
      [.de](https://www.amazon.de/dp/B0BRDGQND1), 
      [.fr](https://www.amazon.fr/dp/B0BRDGQND1), 
      [.es](https://www.amazon.es/dp/B0BRDGQND1), 
@@ -18,7 +19,7 @@ Also available at amazon local places:
      [.se](https://www.amazon.es/se/B0BRDGQND1), 
      [.ca](https://www.amazon.ca/dp/B0BRDGQND1)
 
-Available from Amazon kdp (December 27, 2022) <br />
+Published from Amazon kdp (December 27, 2022) <br />
 ASIN : B0BRDGQND1 <br />
 Language : English <br />
 Paperback : 283 pages <br />
