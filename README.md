@@ -4,8 +4,6 @@
  <br />
  <br />
 
-**Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](https://www.researchgate.net/publication/366987042_Linear_and_Deep_Models_Basics_with_Pytorch_Numpy_and_Scikit-Learn)
-
 **Printed book with corrected exercices is available at amazon.com** [link_to_the_website.html](https://www.amazon.com/dp/B0BRDGQND1) <br />
 
 [![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
@@ -31,9 +29,7 @@ ISBN-13 : 979-8371441577 <br />
 
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
-- Learn the basics without compromise and with the statistical fundamental knowledge <br />
-
-- More than the usual average contents before consolidate towards more advanced models <br />
+- Learn the basics without compromise before consolidate towards more advanced models <br />
 
 
 **Abstract**  <br />
