@@ -47,6 +47,7 @@ ISBN-13 : 979-8371441577 <br />
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
 - Learn the basics without compromise before consolidate towards more advanced models <br />
+
  <br />
  <br />
 
