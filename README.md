@@ -83,9 +83,8 @@ This book is an introduction to computational statistics for the generalized lin
     Expression of the update for 1st-order for poisson regression <br />
     Expression of the update for 2nd-order for poisson regression <br />
     Implementation of gradient descent for the poisson regression <br />
-    Implementation of newton-raphson with numpy <br />
-    Implementation of natural gradient with numpy <br />
-    Implementation l-fbgs algorithm with pytorch <br />
+    Implementation of newton-raphson and natural gradient with numpy <br />
+    Implementation of l-fbgs algorithm with pytorch for deep regressions <br />
     Notion of quality of the estimation for comparison </br>
 
 15. Autoencoder compared to ipca and t-sne <br />
