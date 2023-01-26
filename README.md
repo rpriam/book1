@@ -4,7 +4,7 @@
  <br />
  <br />
  
- ## "Notebooks .pynb and main file utils.py available at" (notebooks)(./notebooks), more available in the document<br />
+ **Notebooks .pynb and main file utils.py available at (notebooks)(./notebooks), more available in the document**<br />
  <br />
  <br />
 
