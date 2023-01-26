@@ -49,7 +49,7 @@ This book is an introduction to computational statistics for the generalized lin
  
 **Available Files** 
 
- Datasets, notebooks .pynb and main file utils.py at [./notebooks](./notebooks) <br />
+ Datasets, notebooks .pynb and main file at [./notebooks](./notebooks) <br />
  More code with explainations and maths in the document <br />
  <br />
  <br />
