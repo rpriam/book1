@@ -54,7 +54,7 @@ This book is an introduction to computational statistics for the generalized lin
     Error on a train sample  <br />
     Error on a test sample  <br />
 
-3. Linear models with numpy and scikit-learn ([chapter02_book.ipynb](./chapter02_book.ipynb)) <br />
+2. Linear models with numpy and scikit-learn ([chapter02_book.ipynb](./notebooks/chapter02_book.ipynb)) <br />
 
     Theory for linear regression  <br />
     Theory for logistic regression <br />
@@ -63,31 +63,31 @@ This book is an introduction to computational statistics for the generalized lin
     implementation with numpy <br />
     Implementation with Scikit-Learn <br />
 
-5. First-order training of linear models <br />
+3. First-order training of linear models ([chapter03_book.ipynb](./notebooks/chapter03_book.ipynb)) <br />
 
     Algorithm with one datum and with one minibatch <br />
     Implementation of the algorithms with numpy <br />
     Implementation of the algorithms with pytorch <br />
 
-7. Neural networks for (deep) glm <br />
+4. Neural networks for (deep) glm ([chapter04_book.ipynb](./notebooks/chapter04_book.ipynb)) <br />
 
     Presentation of the different loss functions from pytorch <br />
     Generic implementation of the algorithms with pytorch <br />
     Example of nonlinear frontier with a small dataset <br />
 
-9. Lasso selection for (deep) glm <br />
+5. Lasso selection for (deep) glm ([chapter05_book.ipynb](./notebooks/chapter05_book.ipynb)) <br />
 
     Penalization of the regression for sparse solution <br />
     Implementation with pytorch for a neural network <br />
     Selection of the hyperparameters (grid and bayesian) <br />
 
-11. Hessian and covariance for (deep) glm <br />
+6. Hessian and covariance for (deep) glm ([chapter06_book.ipynb](./notebooks/chapter06_book.ipynb)) <br />
 
     Notion of variance of the parameters <br />
     Implementation with statsmodels for linear models <br />
     Implementation with pytorch for a neural network <br />
 
-13. Second-order training of (deep) glm <br />
+7. Second-order training of (deep) glm ([chapter07_book.ipynb](./notebooks/chapter07_book.ipynb)) <br />
 
     Expression of the update for 1st-order for poisson regression <br />
     Expression of the update for 2nd-order for poisson regression <br />
@@ -96,7 +96,7 @@ This book is an introduction to computational statistics for the generalized lin
     Implementation of l-fbgs algorithm with pytorch for deep regressions <br />
     Notion of quality of the estimation for comparison </br>
 
-15. Autoencoder compared to ipca and t-sne <br />
+8. Autoencoder compared to ipca and t-sne ([chapter08_book.ipynb](./notebooks/chapter08_book.ipynb)) <br />
 
     Introduction to the algebra for principal component analysis </br>
     Implementation step by step for principal component analysis </br>
@@ -105,7 +105,7 @@ This book is an introduction to computational statistics for the generalized lin
     Implementation of random projection for large datasets </br>
     Notion of quality of the visualization for comparison </br>
 
-17. Solution to selected exercices <br />
+9. Solution to selected exercices ([chapter09_book.ipynb](./notebooks/chapter09_book.ipynb)) <br />
 
     Several solutions for large datasets with scikit-learn <br />
     Several solutions for neural networks with pytorch <br />
