@@ -4,6 +4,14 @@
  <br />
  <br />
  
+ **Available Files in this repository** 
+
+ Datasets, notebooks .pynb and main file at [./notebooks](./notebooks) <br />
+ More code with explainations and maths in the document <br />
+ <br />
+ <br />
+ 
+ 
 **Printed book with corrected exercices is available at at amazon local places** <br />
      [.com](https://www.amazon.de/dp/B0BRDGQND1), 
      [.de](https://www.amazon.de/dp/B0BRDGQND1), 
@@ -47,13 +55,7 @@ This book is an introduction to computational statistics for the generalized lin
  <br />
  <br />
  
-**Available Files** 
 
- Datasets, notebooks .pynb and main file at [./notebooks](./notebooks) <br />
- More code with explainations and maths in the document <br />
- <br />
- <br />
- 
 **Chapter** <br />
 
 1. Introduction <br />
