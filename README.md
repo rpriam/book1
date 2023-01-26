@@ -47,7 +47,8 @@ ISBN-13 : 979-8371441577 <br />
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
 - Learn the basics without compromise before consolidate towards more advanced models <br />
-
+ <br />
+ <br />
 
 **Abstract**  <br />
 
@@ -119,7 +120,8 @@ This book is an introduction to computational statistics for the generalized lin
 
     Several solutions for large datasets with scikit-learn <br />
     Several solutions for neural networks with pytorch <br />
-
+ <br />
+ <br />
 
 
 **About the author**
