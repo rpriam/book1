@@ -17,7 +17,8 @@ Also available at amazon local places:
      [.nl](https://www.amazon.nl/dp/B0BRDGQND1), 
      [.pl](https://www.amazon.es/pl/B0BRDGQND1), 
      [.se](https://www.amazon.es/se/B0BRDGQND1), 
-     [.ca](https://www.amazon.ca/dp/B0BRDGQND1)
+     [.ca](https://www.amazon.ca/dp/B0BRDGQND1),
+     [.uk](https://www.amazon.uk/dp/B0BRDGQND1)
 
 Published from Amazon kdp (December 27, 2022) <br />
 ASIN : B0BRDGQND1 <br />
