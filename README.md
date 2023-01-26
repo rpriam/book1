@@ -4,7 +4,7 @@
  <br />
  <br />
 
-**Printed book with corrected exercices is available at at amazon local places** : 
+**Printed book with corrected exercices is available at at amazon local places** <br />
      [.com](https://www.amazon.de/dp/B0BRDGQND1), 
      [.de](https://www.amazon.de/dp/B0BRDGQND1), 
      [.fr](https://www.amazon.fr/dp/B0BRDGQND1), 
