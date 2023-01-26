@@ -8,6 +8,15 @@
 
 [![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
 
+Also available at amazon local places: 
+     [.de](https://www.amazon.de/dp/B0BRDGQND1), 
+     [.fr](https://www.amazon.fr/dp/B0BRDGQND1), 
+     [.es](https://www.amazon.es/dp/B0BRDGQND1), 
+     [.it](https://www.amazon.it/dp/B0BRDGQND1), 
+     [.nl](https://www.amazon.nl/dp/B0BRDGQND1), 
+     [.pl](https://www.amazon.es/pl/B0BRDGQND1), 
+     [.se](https://www.amazon.es/se/B0BRDGQND1), 
+     [.ca](https://www.amazon.ca/dp/B0BRDGQND1)
 
 Available from Amazon kdp (December 27, 2022) <br />
 ASIN : B0BRDGQND1 <br />
