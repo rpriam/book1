@@ -6,7 +6,7 @@
  
  **Available Files in this repository** 
 
- Datasets, notebooks .pynb and main file at [./notebooks](./notebooks) <br />
+ Datasets, main file .py and notebooks .pynb at [./notebooks](./notebooks) <br />
  More code with explainations and maths in the document <br />
  <br />
  <br />
