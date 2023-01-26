@@ -54,7 +54,7 @@ This book is an introduction to computational statistics for the generalized lin
     Error on a train sample  <br />
     Error on a test sample  <br />
 
-3. Linear models with numpy and scikit-learn <br />
+3. Linear models with numpy and scikit-learn ([chapter02_book.ipynb](./chapter02_book.ipynb)) <br />
 
     Theory for linear regression  <br />
     Theory for logistic regression <br />
