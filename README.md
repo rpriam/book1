@@ -1,11 +1,11 @@
-## Data files and companion jupyter notebooks for the new book - 27 Dec. 2022 <br />
+## Data files and companion jupyter notebooks for the computer book <br />
 
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
  
  
- **Main Document with the first 247 pages (without last chapter)** <br />
+ **Main Document with the first 247 pages (without last chapter, 27-12-2022)** <br />
  <br />
 [book_rpriam_2022.pdf](./text/book_rpriam_2022.pdf) <br />
  
