@@ -34,7 +34,7 @@
      [.ca](https://www.amazon.ca/dp/B0BRDGQND1),
      [.uk](https://www.amazon.uk/dp/B0BRDGQND1) <br />
 
-[![Cover book](https://github.com/rpriam/book1/blob/main/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
+[![Cover book](./text/cover.png)](https://www.amazon.com/dp/B0BRDGQND1) 
 
 Published from Amazon kdp (December 27, 2022) <br />
 ASIN : B0BRDGQND1 <br />
