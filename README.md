@@ -7,7 +7,7 @@
  
  **Main Document with the first 247 pages (without last chapter, 27-12-2022)** <br />
  <br />
-[book_rpriam_2022.pdf](./text/book_rpriam_2022.pdf) <br />
+[book_pytorch_scikit_learn_numpy.pdf](./text/book_pytorch_scikit_learn_numpy.pdf) <br />
  
  <br />
  <hr> 
