@@ -5,8 +5,14 @@
  <br />
  
  
- **Main Document (247 pages) without the chapter for the exercices** [book_rpriam_2022.pdf](./text/book_rpriam_2022.pdf)
+ **Main Document (247 pages) without the chapter for the exercices** <br />
+ <br />
+[book_rpriam_2022.pdf](./text/book_rpriam_2022.pdf) <br />
  
+ <br />
+ <hr> 
+ <br />
+ <br />
  **Available Files in this repository** 
 
  Datasets, main file .py and notebooks .pynb at [./notebooks](./notebooks) <br />
