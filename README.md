@@ -5,7 +5,7 @@
  <br />
  
  
- **Main Document (247 pages) without the chapter for the exercices** <br />
+ **Main Document with the first 247 pages (without last chapter)** <br />
  <br />
 [book_rpriam_2022.pdf](./text/book_rpriam_2022.pdf) <br />
  
