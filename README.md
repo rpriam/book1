@@ -1,4 +1,4 @@
-## Data files and companion jupyter notebooks for the new book: <br />
+## Data files and companion jupyter notebooks for the new book - 27 Dec. 2022 <br />
 
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
