@@ -1,6 +1,4 @@
-## Data files and companion jupyter notebooks for the computer book <br />
-
-## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
+## NEW BOOK ML : "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
  
@@ -13,7 +11,10 @@
  <hr> 
  <br />
  <br />
- 
+
+## Data files and companion jupyter notebooks for the computer book <br />
+
+
  **Available Files in this repository**  <br />
 
  Datasets, main file .py and notebooks .pynb at [./notebooks](./notebooks) <br />
