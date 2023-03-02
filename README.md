@@ -4,10 +4,8 @@
  <br />
  <br />
  
- <pre>
- **Main Document with the first 247 pages (without last chapter, 27-12-2022)**   [book_pytorch_scikit_learn_numpy.pdf](./text/book_pytorch_scikit_learn_numpy.pdf) <br />
- </pre>
- 
+  **Main Document with the first 247 pages (without last chapter, 27-12-2022)**   [book_pytorch_scikit_learn_numpy.pdf](./text/book_pytorch_scikit_learn_numpy.pdf) <br />
+  
  <br />
  <hr> 
  <br />
