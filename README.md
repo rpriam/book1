@@ -1,4 +1,6 @@
-## NEW BOOK ML : "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
+## NEW BOOK IN MACHINE LEARNING / DATA SCIENCES  FOR 2023 <br />  <br />
+
+## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
  <br />
  <br />
  
