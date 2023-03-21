@@ -41,7 +41,7 @@ This book is an introduction to computational statistics for the generalized lin
  <br />
  
 
-**Chapter** <br />
+**Chapters** <br />
 
 1. Introduction <br />
 
