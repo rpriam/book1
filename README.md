@@ -30,7 +30,11 @@
 
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
-- Learn the basics without compromise before consolidate towards more advanced models <br />
+- Learn the statistical basics without compromise before consolidate towards advanced models <br />
+
+- Not just some formula without context but the real statistical foundation to understand better <br /> 
+
+- Generic computer codes in python, allow to train deep models for tabular data in a blink <br />
 
  <br />
  <br />
@@ -117,6 +121,5 @@ Rodolphe Priam has a diploma in practical applied statistics and a phD related t
 
 ---------------------------------------------------------------------
 
- <br />
+<br />
  
-
