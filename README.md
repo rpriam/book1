@@ -2,7 +2,7 @@
 ## Files for the computer book in deep learning with statistical background <br /> 
 ## Amazon kdp paper back  - 2023 - ISBN-13 :979-8371441577 <br />
 
-## WARNING: GOOGLE WAS NOT ABLE TO INDEX THE KDP SITES: SEE BING, YAHOO, ETC
+## Warning: Google is not indexing the related kdp sites (04-17-2023), see Bing, Yahoo, etc
 
  <br />
 
