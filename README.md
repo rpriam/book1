@@ -4,7 +4,7 @@
 
  <br />
   
-**Main Document (PDF EBOOK) with 247 pages (27-12-2022) for direct download**   [book_pytorch_scikit_learn_numpy.pdf](./text/book_pytorch_scikit_learn_numpy.pdf) <br />
+**Main Document (PDF EBOOK) with 247 pages (27-12-2022) for direct download**   [book_pytorch_scikit_learn_numpy.pdf]([./text/book_pytorch_scikit_learn_numpy.pdf](https://github.com/rpriam/book1/blob/main/text/book_pytorch_scikit_learn_numpy.pdf)) <br />
   
  <hr> 
  <br />
