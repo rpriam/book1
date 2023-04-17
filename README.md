@@ -1,5 +1,5 @@
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
-## Files for computer book in deep learning with statistical background <br /> 
+## Files for the computer book in deep learning with statistical background <br /> 
 ## Amazon kdp paper back  - 2023 <br />
 ## ISBN-13 :979-8371441577 <br />
 
