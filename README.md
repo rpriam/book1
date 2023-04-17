@@ -34,7 +34,7 @@
 
 - Not just some formula without context but the real statistical foundation to understand better <br /> 
 
-- Generic computer codes in python, allow to train deep models for tabular data in a blink <br />
+- Generic python functions, allow to train and alter deep models for tabular data in a blink <br />
 
  <br />
  <br />
