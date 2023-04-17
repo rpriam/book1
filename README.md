@@ -1,10 +1,10 @@
-## NEW COMPUTER BOOK IN MACHINE LEARNING / DATA SCIENCES  FOR 2023 <br />  <br />
-## AMAZON KDP PAPER BACK -  ISBN-13 :979-8371441577 <br />
-
 ## "Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn" <br />
+## Files for computer book in deeo learning <br /> 
+## Amazon kdp paper back  - 2023 <br />
+## ISBN-13 :979-8371441577 <br />
+
  <br />
- 
- 
+
   
 **Main Document (ebook) with 247 pages (27-12-2022)**   [book_pytorch_scikit_learn_numpy.pdf](./text/book_pytorch_scikit_learn_numpy.pdf) <br />
   
