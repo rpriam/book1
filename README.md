@@ -32,8 +32,6 @@
 
 - Learn the statistical basics without compromise before consolidate towards advanced models <br />
 
-- Not just some formula without context but the real statistical foundation to understand better <br /> 
-
 - Generic python functions, allow to train and alter deep models for tabular data in a blink <br />
 
  <br />
