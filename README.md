@@ -30,7 +30,7 @@
 
 - Step by step for theory & code (require only minimum knowledge in python and maths)  <br />
 
-- Learn the statistical basics without compromise before consolidate towards advanced models <br />
+- Learn the maths basics without compromise before consolidate towards advanced models <br />
 
 - Generic python functions, allow to train and alter deep models for tabular data in a blink <br />
 
