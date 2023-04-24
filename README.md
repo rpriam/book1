@@ -113,7 +113,7 @@ This book is an introduction to computational statistics for the generalized lin
 
 **About the author**
 
-Rodolphe Priam has a diploma in practical applied statistics and a phD related to data sciences. He is ﬁrst author, main author or co-author of several communications on model inference in statistics and computer journals. He has served as a lecturer in French universities during four and half years from 2002 to 2004 and 2006 to 2008, he has taught applied statistics, probabilities and computing (statistical inference, queueing theory, langage r, langage java, etc) for more than trenty courses and lectures at universities and engineering schools.
+[Rodolphe Priam}(https://github.com/rpriam/book1/blob/main/text/cv_priam_rodolphe.pdf) has a diploma in practical applied statistics and a phD related to data sciences. He is ﬁrst author, main author or co-author of several communications on model inference in statistics and computer journals. He has served as a lecturer in French universities during four and half years from 2002 to 2004 and 2006 to 2008, he has taught applied statistics, probabilities and computing (statistical inference, queueing theory, langage r, langage java, etc) for more than trenty courses and lectures at universities and engineering schools.
 
 ----------------------------------------------------------------------
 
